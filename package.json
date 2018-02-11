@@ -8,9 +8,11 @@
   },
   "author": "v21",
   "license": "ISC",
-  "dependencies":
-  {
-  	"twit" : "1.x",
-  	 "tracery-grammar": "2.x"
+  "dependencies": {
+    "twit": "1.x",
+    "tracery-grammar": "2.x"
+  },
+  "devDependencies": {
+    "node-twitter-api": "^1.8.0"
   }
 }
